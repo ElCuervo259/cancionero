@@ -1,0 +1,21 @@
+#titulo {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.indice {
+    text-align: center;
+    font-size: 40px;
+}
+
+#menu {
+    margin-top: 2%;
+    font-size: 30px;
+    background-color: #e28743;
+    border-radius: 50px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: black;
+}
